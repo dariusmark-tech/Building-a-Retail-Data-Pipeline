@@ -26,7 +26,7 @@ walmart-data-pipeline/
 
 ---
 
-## 📦 Data Sources
+## Data Sources
 
 ### `grocery_sales` (PostgreSQL table)
 | Column | Description |
@@ -51,7 +51,7 @@ walmart-data-pipeline/
 
 ---
 
-## ⚙️ Pipeline Steps
+## Pipeline Steps
 
 The pipeline is implemented across **10 notebook cells**:
 
@@ -138,7 +138,7 @@ validation("agg_data.csv")     # Expected: True
 
 ---
 
-## 📊 Output Schemas
+## Output Schemas
 
 ### `clean_data.csv`
 | Column | Description |
@@ -166,7 +166,7 @@ Sample output:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -179,7 +179,7 @@ Sample output:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -207,7 +207,7 @@ Sample output:
 
 ---
 
-## 📚 Concepts Practiced
+## Concepts Practiced
 
 - **ETL Pipeline Design** — Extract, Transform, Load as separate, modular stages
 - **Pandas** — merging, null imputation, date parsing, groupby aggregation, method chaining
