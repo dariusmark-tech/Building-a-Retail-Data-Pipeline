@@ -1,4 +1,4 @@
-# 🛒 Walmart E-Commerce Data Pipeline
+# Walmart E-Commerce Data Pipeline
 
 A Python-based ETL data pipeline built to analyze Walmart's e-commerce supply and demand patterns around public holidays. This project merges sales data from a PostgreSQL database with complementary feature data, transforms and aggregates it, and exports clean CSV outputs.
 
