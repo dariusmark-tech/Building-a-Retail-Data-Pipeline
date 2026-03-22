@@ -218,6 +218,6 @@ Sample output:
 
 ---
 
-## 📝 License
+## License
 
 This project was completed as part of a DataCamp data engineering learning path.
