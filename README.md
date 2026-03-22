@@ -4,7 +4,7 @@ A Python-based ETL data pipeline built to analyze Walmart's e-commerce supply an
 
 ---
 
-## 📌 Project Background
+## Project Background
 
 Walmart is the biggest retail store in the United States. By end of 2022, e-commerce represented **$80 billion in sales** — 13% of total company revenue. Public holidays like the Super Bowl, Labour Day, Thanksgiving, and Christmas significantly impact weekly sales.
 
@@ -12,7 +12,7 @@ This pipeline was built to support analysis of those holiday-driven patterns.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 walmart-data-pipeline/
