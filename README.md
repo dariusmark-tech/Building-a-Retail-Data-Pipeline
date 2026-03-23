@@ -205,19 +205,6 @@ Sample output:
    agg_data.csv
    ```
 
----
-
-## Concepts Practiced
-
-- **ETL Pipeline Design** — Extract, Transform, Load as separate, modular stages
-- **Pandas** — merging, null imputation, date parsing, groupby aggregation, method chaining
-- **SQL** — querying a PostgreSQL database
-- **Data Validation** — confirming pipeline outputs with `os.path.exists()`
-- **Feature Engineering** — extracting a `Month` feature from a date column
-- **Data Filtering** — removing low-signal rows below a sales threshold
-
----
-
 ## 📝 License
 
 This project was completed as part of a DataCamp data engineering learning path.
